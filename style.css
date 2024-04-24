@@ -1,0 +1,59 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #B096BB;
+  }
+
+  .btn-secondary {
+    background-color: #815590;
+  }
+ 
+  .navbar-toggler {
+    background-color: #815590;
+  }
+  .pie {
+    background-color: #815590;
+  }
+  .navbar {
+    background-color: #8A649A;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+
+  .navbar-brand {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px;
+  }
+  
+  .container {
+    background-color: #BB9CCA;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+
+  .parra{
+    color: #3B1D46;
+    text-align: justify
+  }
+  main h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    
+  }
+
+  article {
+    margin-bottom: 40px;
+  }
+
+  aside h2 {
+    margin-top: 0;
+  }
+
+  footer {
+    padding: 20px 0;
+    text-align: center;
+  }
